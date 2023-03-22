@@ -14,8 +14,6 @@ I really like to code, and make fun projects so that I can gain experience!
 
 😄 Pronouns He/Him
 
-⚡️ Fun fact...
-
 
 ## 🛠 Skills
 HTML, CSS, JavaScript, and a little bit of MySQL and Python
