@@ -2,7 +2,7 @@
 
 I really like to code, and make fun projects so that I can gain experience!
 ## About Me
-👩‍💻 I'm currently working on a Sudoku Solver
+👩‍💻 I'm currently not working on any major projects
 
 🧠 I'm currently learning Advance Python
 
