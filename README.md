@@ -1,20 +1,20 @@
-# Hi, I am Nabbu! 👋
+# Hey! 👋
 
 I really like to code, and make fun projects so that I can gain experience!
 ## About Me
 👩‍💻 I'm currently working on a Sudoku Solver
 
-🧠 I'm currently learning Python and JavaScript
+🧠 I'm currently learning Advance Python
 
-🤔 I'm looking for help with Discord JS
+🤔 I'm looking for interesting and crazy ideas
 
-💬 You can ask me about Discord server managment, Graphical Designing, UI Designing, Web Development.
+💬 You can ask me about Discord server managment, Graphical Designing, UI/UX Designing, Web Development, and some more
 
-📫 How to reach me [Discord](https://discordapp.com/users/871603382647943279)
+📫 You can contact me on [Discord](https://discordapp.com/users/871603382647943279)
 
 😄 Pronouns He/Him
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, and a little bit of MySQL and Python
+HTML, CSS, JavaScript, Python, and a little bit of MySQL
 #### Some people refer to me as Death Traveller and United King as well.
