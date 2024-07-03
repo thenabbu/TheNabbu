@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm passionate about coding and love working on fu
 
 ## About Me
 
-I am a full-stack developer with a keen interest in graphic design, UI/UX design, and web development. Currently, I am focusing on learning DSA and always on the lookout for interesting and challenging project ideas. I have a solid foundation in Web Development, Python, MongoDB.
+I am a full-stack developer with a keen interest in graphic design, UI/UX design, and web development. Currently, I am focusing on learning DSA concepts and always on the lookout for interesting and challenging project ideas. I have a solid foundation in Web Dev, Python, MongoDB.
 
 In addition to my core skills, I have some experience with video and audio editing, allowing me to tackle multimedia projects as needed.
 
@@ -15,23 +15,28 @@ Feel free to reach out to me for collaborations or just to say hi!
 ### Core Competencies
 - **HTML**
 - **CSS**
-- **Javascript**
+- **JavaScript**
 - **Python**
 - **MongoDB**
-- **SQL**
 - **NextJS**
+- **SQL**
 - **Arduino**
-
 
 ### Additional Skills
 - **Video Editing**
 - **Audio Editing**
 
 ### Areas of Expertise
-- Full Stack Web Development
+- Full Stack Development
 - Graphic Design
 - UI/UX Design
 - Web Development
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNabbu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNabbu&layout=compact&theme=radical)
 
 ## Contact Me
 
