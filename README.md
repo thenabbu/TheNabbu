@@ -12,26 +12,20 @@ Feel free to reach out to me for collaborations or just to say hi!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,js,py,mongodb,nextjs,mysql,arduino,figma,discordjs" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,mongodb,nextjs,sql,arduino,figma,discordjs)](https://skillicons.dev)
 
 ### Additional Skills
 - **Video Editing**
 - **Audio Editing**
+- **Discord Server Managment**
 
 ### Areas of Expertise
 - Full Stack Web Development
 - Graphic Design
 - UI/UX Design
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNabbu&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNabbu&layout=compact&theme=radical)
 
 ## Contact Me
 
