@@ -10,27 +10,22 @@ In addition to my core skills, I have some experience with video and audio editi
 
 Feel free to reach out to me for collaborations or just to say hi!
 
-## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
-### Core Competencies
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Python**
-- **MongoDB**
-- **NextJS**
-- **SQL**
-- **Arduino**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,mongodb,nextjs,sql,arduino,figma,discordjs)](https://skillicons.dev)
 
 ### Additional Skills
 - **Video Editing**
 - **Audio Editing**
 
 ### Areas of Expertise
-- Full Stack Development
+- Full Stack Web Development
 - Graphic Design
 - UI/UX Design
-- Web Development
 
 ## GitHub Stats
 
