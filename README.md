@@ -12,7 +12,7 @@ Feel free to reach out to me for collaborations or just to say hi!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,js,py,mongodb,nextjs,mysql,arduino,figma,discordjs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,mongodb,nextjs,mysql,arduino,figma,discordjs" />
   </a>
 </p>
 
