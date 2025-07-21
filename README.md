@@ -1,35 +1,29 @@
-# Hello! 👋
+# Hello!
 
-Welcome to my GitHub profile. I'm passionate about coding and love working on fun projects to gain experience and enhance my skills.
+Just a dev trying to develop better tools and scripts
 
 ## About Me
 
-I am a full-stack developer with a keen interest in graphic design, UI/UX design, and web development. Currently, I am focusing on learning DSA concepts and always on the lookout for interesting and challenging project ideas. I have a solid foundation in Web Dev, Python, MongoDB.
+I’m a full-stack web developer with strong interests in UI/UX design, graphic design, and backend scripting. I enjoy building polished, practical systems and automating repetitive tasks. My focus is on clean design, lean code, and fast delivery.
 
-In addition to my core skills, I have some experience with video and audio editing, allowing me to tackle multimedia projects as needed.
+I’m currently exploring new project ideas, improving my TypeScript and automation skills, and contributing to my own open-source tools.
 
-Feel free to reach out to me for collaborations or just to say hi!
+## Core Skills
+
+- Full-Stack Web Development (Next.js, Flask, TailwindCSS, SQL, MongoDB)
+- UI/UX Design (Figma, Canva, clean and responsive interfaces)
+- Graphic Design (event branding, social content)
+- Automation and Scripting (Python, Node.js for scraping, cron jobs, CLI tools)
+- Technical Optimization (low-end system tuning, Docker-based services, self-hosted setups)
+
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,mongodb,nextjs,mysql,arduino,figma,discordjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,py,nodejs,mongodb,sqlite,figma,tailwind,vercel,linux" />
   </a>
 </p>
 
+## Contact
 
-### Additional Skills
-- **Video Editing**
-- **Audio Editing**
-- **Discord Server Managment**
-
-### Areas of Expertise
-- Full Stack Web Development
-- Graphic Design
-- UI/UX Design
-
-## Contact Me
-
-You can connect with me on [Discord](https://discordapp.com/users/871603382647943279).
-
-## Pronouns
-He/Him
+For work or collaboration, reach out via [GitHub Issues](https://github.com/thenabbu/thenabbu/issues) or [Discord](https://discordapp.com/users/871603382647943279) (deathtraveller)
