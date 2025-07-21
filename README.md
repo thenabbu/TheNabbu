@@ -20,7 +20,7 @@ I’m currently exploring new project ideas, improving my TypeScript and automat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,py,nodejs,mongodb,sqlite,figma,tailwind,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,py,flask,nodejs,mongodb,mysql,sqlite,arduino,figma,tailwind,vercel,docker" />
   </a>
 </p>
 
